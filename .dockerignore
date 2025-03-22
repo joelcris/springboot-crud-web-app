@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gradle
+build/
+!build/libs/*.jar
+.idea
+*.iml
+.vscode
+.DS_Store
+logs/
+tmp/ 
